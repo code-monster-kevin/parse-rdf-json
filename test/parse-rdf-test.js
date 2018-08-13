@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 const fs = require('fs');
 const expect = require('chai').expect;
 const parseRDF = require('../lib/parse-rdf');
